@@ -4,6 +4,11 @@ Scripts to install OpenCV on the Ubuntu 14.04(This work is highly based on the f
 ## Installation
 Follow the order below:
 
+### clone the repositories
+$ git clone https://github.com/jaeoh2/installOpenCVUbuntu14.04.git
+$ cd installOpenCVUbuntu14.04
+$ find ./ -name "*.sh" -exec chmod +x {} \;
+
 ### installPrerequisites.sh
 Install other dependencies
 
