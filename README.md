@@ -6,7 +6,9 @@ Follow the order below:
 
 ### clone the repositories
 $ git clone https://github.com/jaeoh2/installOpenCVUbuntu14.04.git
+
 $ cd installOpenCVUbuntu14.04
+
 $ find ./ -name "*.sh" -exec chmod +x {} \;
 
 ### installPrerequisites.sh
