@@ -10,4 +10,4 @@ sudo apt-get install libatlas-base-dev libhdf5-serial-dev gfortran -y
 # Optional
 #sudo apt-add-repository ppa:mc3man/trusty-media
 #sudo apt-get update
-#sudo apt-get install ffmpeg gstreamer0.10-ffmpeg
+#sudo apt-get install ffmpeg python-opencv -y
